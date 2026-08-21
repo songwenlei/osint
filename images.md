@@ -59,6 +59,7 @@ shodan search org:"Target" http.favicon.hash:116323821 --fields ip_str,port --se
 [KarmaDecay](http://karmadecay.com) Find images on Reddit. \
 [ExifInfo](https://exifinfo.org) Image metadata. \
 [Extract Metadata](https://www.extractmetadata.com) Extract metadata \
+[Metadata Remover Viewer](https://metadataremover.ai/metadata-viewer) Inspect EXIF, IPTC, and XMP locally in the browser; corroborate important findings. \
 [Favihash](https://www.favihash.com/) Grab the favicon hash of a site or file. \
 [Faviconhasher](https://faviconhasher.codejavu.tech/) Another good favicon hasher
 
